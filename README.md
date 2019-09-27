@@ -1,0 +1,2 @@
+# BoardGameRules
+ボードゲームルール和訳
